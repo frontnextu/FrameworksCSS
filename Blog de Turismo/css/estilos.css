@@ -9,32 +9,37 @@ width: 100%;
 
 }
 
-.justificado {
-  text-align: justify;
 
-}
-.containeruno {
-  height: 200px;
-}
-
-.textoUbicacion {
-  font-size: 20px;
-}
- .navegacion {
-  padding-left:  250px;
- }
-.margen {
- padding-top: 10px;
-
-}
 .logo {
   border-radius: 26px 26px 26px 26px;
   -moz-border-radius: 26px 26px 26px 26px;
   -webkit-border-radius: 26px 26px 26px 26px;
 }
 
-.alto {
-  height: 20px;
+
+/* Generales */
+.margen {
+ padding-top: 10px;
+
+}
+
+.centrado {
+  text-align: center;
+  width: 100%;
+}
+
+.navegacion {
+ padding-left:  250px;
+}
+
+.justificado {
+  text-align: justify;
+
+}
+
+ /* Para blog */
+.textoUbicacion {
+  font-size: 20px;
 }
 
 .foto {
@@ -46,9 +51,6 @@ max-width: 100%;
   text-align: right;
 }
 
-.centrado {
-  text-align: center;
-}
 .fondo {
   background-color: #A9E2F3  ;
 }
