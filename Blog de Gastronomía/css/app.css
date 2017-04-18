@@ -1,0 +1,45 @@
+.banner {
+  background-image: url(../img/cocina-fondo.jpg);
+  background-attachment:fixed;
+  background-repeat:no-repeat;
+
+}
+
+h5 {
+  text-align: right;
+}
+
+h6 {
+  padding-left: 7px;
+  font-weight: bold;
+}
+a {
+  color:black;
+  font-weight: bold;
+  font-size: .9em;
+}
+
+ .size-20 { font-size: 20px; }
+ .size-30 { font-size: 35px; }
+ .search-text-box {
+   font-family: 'foundation-icons'; /* This is for the placeholder */
+   border-radius: 18px;
+}
+.lista li {
+  list-style:none;
+  font-size: .9rem;
+  font-weight: bold;
+  padding: 5px 0px 5px 0px;
+}
+.space {
+  padding: 2px;
+}
+.space2 {
+  padding-left: 1px;
+
+}
+
+.imgComentario {
+  padding-top: 0px;
+  padding-left: 20px;
+}

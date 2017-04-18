@@ -1,0 +1,54 @@
+html {
+    font-family: "Georgia Italic";
+}
+body{
+background-image: url(../img/montañanieve.jpg);
+background-attachment:fixed;
+background-repeat:no-repeat;
+width: 100%;
+
+}
+
+.justificado {
+  text-align: justify;
+
+}
+.containeruno {
+  height: 200px;
+}
+
+.textoUbicacion {
+  font-size: 20px;
+}
+ .navegacion {
+  padding-left:  250px;
+ }
+.margen {
+ padding-top: 10px;
+
+}
+.logo {
+  border-radius: 26px 26px 26px 26px;
+  -moz-border-radius: 26px 26px 26px 26px;
+  -webkit-border-radius: 26px 26px 26px 26px;
+}
+
+.alto {
+  height: 20px;
+}
+
+.foto {
+max-width: 100%;
+  height: auto;
+}
+
+.derecha {
+  text-align: right;
+}
+
+.centrado {
+  text-align: center;
+}
+.fondo {
+  background-color: #A9E2F3  ;
+}

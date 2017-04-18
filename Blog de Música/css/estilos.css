@@ -1,0 +1,15 @@
+.navbar-nav>li {
+  float: none;
+}
+
+figure {
+  padding-top:80px;
+}
+
+.changethisone span{
+    background-color: #FFF;
+}
+
+.changethisone input{
+    border-left-style:none;
+}
